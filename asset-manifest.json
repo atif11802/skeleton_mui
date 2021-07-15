@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skeleton_mui/static/css/main.995b9136.chunk.css",
+    "main.js": "/skeleton_mui/static/js/main.0f5443a6.chunk.js",
+    "main.js.map": "/skeleton_mui/static/js/main.0f5443a6.chunk.js.map",
+    "runtime-main.js": "/skeleton_mui/static/js/runtime-main.b088dedd.js",
+    "runtime-main.js.map": "/skeleton_mui/static/js/runtime-main.b088dedd.js.map",
+    "static/js/2.050b79a2.chunk.js": "/skeleton_mui/static/js/2.050b79a2.chunk.js",
+    "static/js/2.050b79a2.chunk.js.map": "/skeleton_mui/static/js/2.050b79a2.chunk.js.map",
+    "static/js/3.06e28f4b.chunk.js": "/skeleton_mui/static/js/3.06e28f4b.chunk.js",
+    "static/js/3.06e28f4b.chunk.js.map": "/skeleton_mui/static/js/3.06e28f4b.chunk.js.map",
+    "index.html": "/skeleton_mui/index.html",
+    "static/css/main.995b9136.chunk.css.map": "/skeleton_mui/static/css/main.995b9136.chunk.css.map",
+    "static/js/2.050b79a2.chunk.js.LICENSE.txt": "/skeleton_mui/static/js/2.050b79a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b088dedd.js",
+    "static/js/2.050b79a2.chunk.js",
+    "static/css/main.995b9136.chunk.css",
+    "static/js/main.0f5443a6.chunk.js"
+  ]
+}
